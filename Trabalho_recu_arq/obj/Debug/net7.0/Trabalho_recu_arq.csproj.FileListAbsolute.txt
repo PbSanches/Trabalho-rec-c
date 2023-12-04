@@ -1,0 +1,14 @@
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\bin\Debug\net7.0\Trabalho_recu_arq.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\bin\Debug\net7.0\Trabalho_recu_arq.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\bin\Debug\net7.0\Trabalho_recu_arq.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\bin\Debug\net7.0\Trabalho_recu_arq.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\bin\Debug\net7.0\Trabalho_recu_arq.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\refint\Trabalho_recu_arq.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\Trabalho_recu_arq.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Trabalho_recu_arq\obj\Debug\net7.0\ref\Trabalho_recu_arq.dll
